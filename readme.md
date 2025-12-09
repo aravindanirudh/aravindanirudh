@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Aravind A Kamath
 - 🔭 **Currently:** Student working as a part-time fullstack web developer in MERN stack
-- 🌱 **Currently learning:** MERN Stack
+- 🌱 **Currently improving in:** MERN Stack
 - 😄 Don't hesitate to contact me for web development work or any other work based on skills from my tech stack below!
 
 ## 🌐 Socials:
