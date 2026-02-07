@@ -3,7 +3,7 @@
 - 🌱 **Currently improving in:** MERN Stack
 - 😄 Don't hesitate to contact me for web development work or any other work based on skills from my tech stack below!
 
-## 🌐 Socials:
+## 🌐 Contact/Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aravind.ak_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aravind-a-kamath-795b24250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravindanirudh1@gmail.com) 
 
 # 💻 Skills or Tech Stack:
